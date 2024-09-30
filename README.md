@@ -1,0 +1,3 @@
+- 👋 Oi, sou @mariana-goncalves
+-🌱 Mestranda em Engenharia Agrícola 
+- 👀 Tenho interesse em ciências de dados, com ênfase em estudos ambientais e hidrológicos.
